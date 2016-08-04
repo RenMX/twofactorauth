@@ -21,7 +21,8 @@ websites:
     - name: Bluehost
       url: https://www.bluehost.com/
       img: bluehost.png
-      tfa: No
+      tfa: Yes
+      software: yes
       twitter: bluehostsupport
 
     - name: ChunkHost
